@@ -80,19 +80,19 @@ plt.show()
 ```
 ## Output:
 # Dataset:
-![](data.png)
+![](data.PNG)
 # Y predict:
-![](ypredict)
+![](ypredict.PNG)
 # Classifier:
-![](classifier)
+![](classifier.PNG)
 # Confusion matrix:
-![](confusion)
+![](confusion.PNG)
 # Accuracy:
-![](accuracy)
+![](accuracy.PNG)
 # Sensitivity and specificity:
-![](senseandspec)
+![](senseandspec.PNG)
 # Logistic Regression graph:
-![](graph)
+![](graph.PNG)
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
